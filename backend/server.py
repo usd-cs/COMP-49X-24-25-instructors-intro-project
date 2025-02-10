@@ -1,4 +1,5 @@
 def double_it(x: int) -> int:
+    """ Doubles the input. """
     return x * 2  # this looks good, right?
 
 def test_double_it():
