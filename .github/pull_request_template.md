@@ -1,6 +1,6 @@
 # Overview
 
-**Type of Change:** _TODO:_ Pick one of the following: New Feature, Bug Fix, or Other.
+**Type of Change:** _TODO:_ Pick one of the following: New Feature, Bug Fix, Documentation, Refactoring, or Other.
 
 **Summary:** _TODO: Briefly summarize the changes made in this pull request, including the rationale for the changes._
 
