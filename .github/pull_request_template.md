@@ -2,7 +2,7 @@
 
 **Type of Change:** _TODO:_ Pick one of the following: New Feature, Bug Fix, or Other.
 
-_TODO: Provide a brief overview explaiing the rationale for the changes made in this pull request._
+**Summary:** _TODO: Briefly summarize the changes made in this pull request, including the rationale for the changes._
 
 ## UI/UX Implementation
 
